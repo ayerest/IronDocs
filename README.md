@@ -9,6 +9,7 @@ IronDocs was created as a quick, easy, and secure way to collaborate on a projec
 ## Screenshots
 
 *WIP - Include logo/demo screenshot etc.*
+![IronDocs logo](https://github.com/ayerest/IronDocs/app/assets/images/logo.png "IronDocs logo")
 
 ## Tech/framework used
 
