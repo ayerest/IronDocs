@@ -26,16 +26,17 @@ Built with:
 ## Features
 
 * Login authentication with BCrypt 
-
+---
 ![Login screen](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/login.png "IronDocs Login Screen view")
-
+---
 * Stats screen available for all users
-
+---
 ![IronDocs stats screen](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/irondocsstats.png "IronDocs stats screen")
-
+---
 * Write posts using markdown formatting (thanks to the [RedCarpet Ruby Gem](https://github.com/vmg/redcarpet))
+---
 ![Markdown formatting key on new post form](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/markdownkey.png "Key provided on new post form for markdown formatting")
-
+---
 * Search and add friends as collaborators
   * Previous collaborators prioritized in friends list
   * Logic to add shared projects/posts to collaborator account
@@ -43,18 +44,20 @@ Built with:
 * Copy a post to another project
 
 * Search for public projects
-
+---
 ![Public post search view](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/searchpublicproject.png "Search for public posts (available to logged in and logged out users")
-
+---
 * Add urgency to posts - most urgent posts are prioritized at the top of the user's profile page
   * Posts are color-coded by urgency 
-
+---
 ![Color coded urgency flags for posts](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/colorcodedposturgency.png "Posts have a red header if they are flagged as urgent, orange, yellow, green, and blue for less urgent down to no urgency")
+---
   * Due date functionality - posts that are due soon or past due have increased urgency
 
 * Full CRUD for posts and projects
-
+---
 ![Post view screen](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/postscreen.png "post view screen")
+---
   * Projects can only be deleted when the last collaborator leaves the project
 
 ## Credits
