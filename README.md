@@ -29,6 +29,10 @@ Built with:
 
 ![Login screen](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/login.png "IronDocs Login Screen view")
 
+* Stats screen available for all users
+
+![IronDocs stats screen](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/irondocsstats.png "IronDocs stats screen")
+
 * Write posts using markdown formatting (thanks to the [RedCarpet Ruby Gem](https://github.com/vmg/redcarpet))
 ![Markdown formatting key on new post form](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/markdownkey.png "Key provided on new post form for markdown formatting")
 
