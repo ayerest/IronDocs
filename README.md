@@ -1,3 +1,5 @@
+![IronDocs logo](https://github.com/ayerest/IronDocs/blob/master/app/assets/images/logo.png "IronDocs logo")
+
 ## IronDocs README
 
 IronDocs is a project management tool built using Ruby on Rails, HTML, and CSS. Users can create new projects, add collaborators to work on projects together, and create/edit posts on their various projects. 
@@ -9,7 +11,10 @@ IronDocs was created as a quick, easy, and secure way to collaborate on a projec
 ## Screenshots
 
 *WIP - Include logo/demo screenshot etc.*
+<<<<<<< HEAD
 ### Public projects view ###
+=======
+>>>>>>> 3c7ba4812b278de061ba564ce9b4a7978913c08d
 
 ## Tech/framework used
 
@@ -32,7 +37,12 @@ Built with:
 * Write posts using markdown formatting (thanks to the [RedCarpet Ruby Gem](https://github.com/vmg/redcarpet))
 * Search and add friends as collaborators
   * Previous collaborators prioritized in friends list
-* 
+* Search for public projects
+* Add urgency to posts - most urgent posts are prioritized at the top of the user's profile page
+  * Posts are color-coded by urgency
+  * Due date functionality - posts that are due soon or past due have increased urgency
+* Full CRUD for posts and projects
+  * Projects can only be deleted when the last collaborator leaves the project
 
 ## Credits
 
