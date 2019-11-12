@@ -38,6 +38,9 @@ Built with:
 
 * Search and add friends as collaborators
   * Previous collaborators prioritized in friends list
+  * Logic to add shared projects/posts to collaborator account
+
+* Copy a post to another project
 
 * Search for public projects
 
