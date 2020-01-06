@@ -4,6 +4,8 @@
 
 IronDocs is a project management tool built using Ruby on Rails, HTML, and CSS. Users can create new projects, add collaborators to work on projects together, and create/edit posts on their various projects. 
 
+[IronDocs is currently hosted on Heroku](https://irondocs.herokuapp.com/).
+
 ## Motivation
 
 IronDocs was created as a quick, easy, and secure way to collaborate on a project with a partner or group.
